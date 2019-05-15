@@ -13,6 +13,6 @@ class PostsController < ApplicationController
 
   # add create method here
   def create
-    @
+    self.new
   end
 end
